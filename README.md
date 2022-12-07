@@ -1,2 +1,2 @@
-# course-assembler
-NC Course - Assembler
+# Course Automation
+Course NC - Automation
